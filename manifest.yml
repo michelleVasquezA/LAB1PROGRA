@@ -1,0 +1,4 @@
+applications:
+ - name: webapp
+   random-route: true
+   memory: 64M
